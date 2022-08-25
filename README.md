@@ -33,3 +33,17 @@ For centuries, people have shared and exchanged goods and services within their 
 The Toy-Cycle site is straightforward and easy to use. A parent who wants to get rid of an unwanted toy takes a picture of it and posts it on the site. Any other parent participating in the program — within the same geographic area — can then reply to the post and arrange a time and place to pick the toy up. There is no exchange of money or shipping. Alternatively, parents can also post items they want for their children.
 
 While Toy Cycle seems like a great idea for parents, kids may be a bit more skeptical about giving away their beloved toys. Collins explains that initially kids haven't been excited about the idea. However after explaining that they can get a new toy in exchange, they quickly warmed to the idea and couldn’t wait to find a toy to give away.
+
+
+
+
+Toy Bazaar is a platform where parents swap the toys for their kids or donate them. 
+
+The toy industry is the most intensive industry in the world, 90% of the toys are made of plastic, they contain harmful chemicals and it's rising every year.  
+
+Kids get tired of their toys after some time and toys ended up in the basement, to overcome this problem Toy Bazaar platform is made so those toys get swapped. 
+
+
+
+
+Short Summary: 
