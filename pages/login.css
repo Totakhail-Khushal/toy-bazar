@@ -1,79 +1,79 @@
+/* Login form  */
 
-   /* Login form  */
-
-
-   .form-container{
-    font-family: 'Poppins', sans-serif;
-    max-width:100%;
-    background-color: #fefefe;
-    padding: 25px 40px;
-    border-radius: 20px;
+.form-container {
+  font-family: 'Poppins', sans-serif;
+  max-width: 40%;
+  background-color: #fefefe;
+  padding: 225px;
+  margin: auto;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
-.form-heading{
-    font-size: 35px;
+.form-heading {
+  font-size: 35px;
 }
 
 .form-heading,
-.signIn-text{
-    text-align: center;
-    color: #131313;
-    text-transform: capitalize;
+.signIn-text {
+  text-align: center;
+  color: #131313;
+  text-transform: capitalize;
 }
 
-.signIn-text a{
-    color: #ff7a00;
-    font-size: 25px;
-}
-/* p{
-    font-size: 30px;
-} */
-
-.login-form{
-    margin-top: 50px;
+.signIn-text a {
+  color: #ff7a00;
+  font-size: 25px;
 }
 
-.login-form input{
-    width: 100%;
-    padding: 15px 10px 15px 20px;
-    font-family: inherit;
-    background-color: #e7e7e7;
-    border:none;
-    border-radius: 15px;
-    margin-bottom: 15px;
-    font-size: 18px;
+.login-form {
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
-.name-inputs{
-    display: flex;
+.login-form input {
+  width: 100%;
+  padding: 15px 10px 15px 20px;
+  font-family: inherit;
+  background-color: #e7e7e7;
+  border: none;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  font-size: 18px;
 }
 
-.name-inputs input:first-child{
-    margin-right: 15px;
+.name-inputs {
+  display: flex;
 }
 
-.signup-btn{
-    margin: 40px auto 0;
-    padding: 16px 64px;
-    text-transform: capitalize;
-    background-color: #ff7a00;
-    border:2px solid #ff7a00;
-    border-radius: 15px;
-    color: #fff;
-    font-family:inherit;
-    font-size: 20px;
-    font-weight:bold;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    transition: all 0.3s;
+.name-inputs input:first-child {
+  margin-right: 15px;
 }
 
-.signup-btn i{
-    margin-left: 5px;
+.signup-btn {
+  margin: 40px auto 0;
+  padding: 16px 64px;
+  text-transform: capitalize;
+  background-color: #ff7a00;
+  border: 2px solid #ff7a00;
+  border-radius: 15px;
+  color: #fff;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: all 0.3s;
 }
 
-.signup-btn:hover{
-    background-color: transparent;
-    color: #ff7a00;
+.signup-btn i {
+  margin-left: 5px;
+}
+
+.signup-btn:hover {
+  background-color: transparent;
+  color: #ff7a00;
 }
