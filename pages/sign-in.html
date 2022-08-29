@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+
+        <link rel="stylesheet" href="sign-in.css">
+        <!-- Fontawesome CDN Link -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>sign in page</title>
+    </head>
+    <body>
+        
+    <div class="container">
+        <input type="checkbox" id="flip">
+        <div class="cover">
+        <div class="front">
+            <img src="/images/exch.jpg" alt="">
+        </div>
+        <div class="back">
+            <img class="backImg" src="/images/exc2.jpg" alt="">
+        </div>
+        </div>
+        <div class="forms">
+            <div class="form-content">
+
+                <div class="needer-form">
+                    <div class="title">Swappers Login</div>
+                    <div class="button-box">
+                        <div id="btn"></div>
+                        <button type="button" class="toggle-btn"><div class="text volunteer-text"><label for="flip">Swappers</label></button>
+                        <button type="button" class="toggle-btn"><label for="flip">Volunteers</label></button>
+                    </div>
+
+
+                    <form action="#">
+                        <div class="input-boxes">
+                            <div class="input-box">
+                                <i class="fas fa-envelope"></i>
+                                <input type="text" placeholder="Enter your email" required>
+                            </div>
+                            <div class="input-box">
+                                <i class="fas fa-lock"></i>
+                                <input type="password" placeholder="Enter your password" required>
+                            </div>
+                            <div class="text"><a href="#">Forgot password?</a></div>
+                            <div class="button input-box">
+                                <input type="submit" value="Login">
+                            </div>
+                            <div class="text volunteer-text">Not a member? <a href="/pages/login.html">Register here</a></div>
+                        </div>
+                    </form>
+                </div>
+            <div class="volunteer-form">
+                
+                <div class="title">Volunteers Login</div>
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type="button" class="toggle-btn"><div class="text volunteer-text"><label for="flip">Swappers</label></button>
+                    <button type="button" class="toggle-btn"><label for="flip">Volunteers</label></button>
+                </div>
+
+                <form action="#">
+                    <div class="input-boxes">
+
+                        <div class="input-box">
+                            <i class="fas fa-envelope"></i>
+                            <input type="text" placeholder="Enter your email" required>
+                        </div>
+                        <div class="input-box">
+                            <i class="fas fa-lock"></i>
+                            <input type="password" placeholder="Enter your password" required>
+                        </div>
+                        <div class="text"><a href="#">Forgot password?</a></div>
+                        <div class="button input-box">
+                            <input type="submit" value="Login">
+                        </div>
+                        <div class="text volunteer-text">Not a member? <a href="/pages/login.html">Register here</a></div>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    </body>
+</html>
