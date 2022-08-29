@@ -47,16 +47,17 @@ body{
 
 .navbar-nav {
     width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .nav-item {
-    padding: 0px 30px;
-    /* margin: 0px 3px; */
     text-align: center;
     align-items: center;
-    /* border-radius: 5px;  */
     font-weight:400; 
 }
+
 
 
 /* styling search bar */
@@ -98,11 +99,13 @@ body{
 
 
 .nav-link {
-    padding: 5px;    
+    /* padding-left: 445px;    */
+
 }
 
 .nav-col{
     color:#fff;
+    /* padding-left: 30px; */
 }
 .navbar-collapse.collapse.in {
     display: block !important;
@@ -154,6 +157,9 @@ body{
 
 .address-content{
     font-size:13px;
+}
+.container{
+    margin-top: 10%;
 }
 
 .card{

@@ -1,4 +1,4 @@
-# toy-bazar
+toy-bazar
 
 image:
 https://webdesign.tutsplus.com/tutorials/web-design-for-kids-color--cms-24378
