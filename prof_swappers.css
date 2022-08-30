@@ -47,18 +47,16 @@ body{
 
 .navbar-nav {
     width: 100%;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
 }
 
 .nav-item {
+    padding: 0px 8px;
+    margin: 0px 3px;
     text-align: center;
-    align-items: center;
-    font-weight:400; 
+    border-radius: 5px; 
+    font-weight: 900; 
+
 }
-
-
 
 /* styling search bar */
 .search input[type=text]{
@@ -99,13 +97,11 @@ body{
 
 
 .nav-link {
-    /* padding-left: 445px;    */
-
+    padding: 5px;    
 }
 
 .nav-col{
     color:#fff;
-    /* padding-left: 30px; */
 }
 .navbar-collapse.collapse.in {
     display: block !important;
@@ -157,9 +153,6 @@ body{
 
 .address-content{
     font-size:13px;
-}
-.container{
-    margin-top: 10%;
 }
 
 .card{
